@@ -13,4 +13,4 @@ leetcode算法
 
 #### 链表
 
-19、[Remove Nth Node From End of List（移除链表倒数第n个节点](https://github.com/jingegebuguai/leetcode/issues/4)
+19、[Remove Nth Node From End of List（移除链表倒数第n个节点)](https://github.com/jingegebuguai/leetcode/issues/4)
